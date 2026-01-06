@@ -28,7 +28,6 @@ The core hypothesis is that:
 **Users are willing to track jobs over time and engage with skill-based matching even when no immediate opening exists.**
 
 Candidate-Side MVP
-
 - Account creation (manual input)
 - Resume upload or structured skill entry
 - Ability to subscribe to a specific job, including filled roles
