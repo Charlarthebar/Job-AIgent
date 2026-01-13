@@ -8,7 +8,3 @@
 2026-01-09 17:00:39,447 - __main__ - INFO - DAILY SCRAPER - Collecting active job listings
 2026-01-09 17:00:39,447 - __main__ - INFO - ============================================================
 2026-01-09 17:00:51,234 - __main__ - INFO - Daily scraper completed successfully. Log: /Users/charleslai/Library/CloudStorage/OneDrive-MassachusettsInstituteofTechnology/ShortList.ai/logs/daily_20260109_170039.log
-2026-01-13 10:11:13,986 - __main__ - INFO - ============================================================
-2026-01-13 10:11:13,990 - __main__ - INFO - DAILY SCRAPER - Collecting active job listings
-2026-01-13 10:11:13,990 - __main__ - INFO - ============================================================
-2026-01-13 10:11:13,991 - __main__ - ERROR - Daily script not found: /Users/charleslai/Library/CloudStorage/OneDrive-MassachusettsInstituteofTechnology/ShortList.ai/Charlie's Work/test_cambridge.py
