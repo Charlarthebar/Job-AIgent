@@ -144,3 +144,19 @@ Has ~14% of all MA employment (517K out of ~3.7M total jobs) from public records
   - Federal employees in MA
   - Nonprofit executives (MIT, Harvard, hospitals)
 
+ Current Data Sources
+  ┌────────────────────────┬─────────┬────────────────────────────────────────────────────────────────────────┐
+  │         Source         │ Records │                            What It Contains                            │
+  ├────────────────────────┼─────────┼────────────────────────────────────────────────────────────────────────┤
+  │ MA State Payroll       │ 171,147 │ Individual state government employees (name, title, salary)            │
+  ├────────────────────────┼─────────┼────────────────────────────────────────────────────────────────────────┤
+  │ NPI Healthcare (MA)    │ 314,155 │ Individual licensed healthcare providers (NPI number, name, specialty) │
+  ├────────────────────────┼─────────┼────────────────────────────────────────────────────────────────────────┤
+  │ Boston City Payroll    │ 25,530  │ Individual city employees (name, title, salary)                        │
+  ├────────────────────────┼─────────┼────────────────────────────────────────────────────────────────────────┤
+  │ Cambridge City Payroll │ 3,911   │ Individual city employees (name, title, salary)                        │
+  ├────────────────────────┼─────────┼────────────────────────────────────────────────────────────────────────┤
+  │ H-1B Visa (MA)         │ 4,164   │ Visa applications (employer, job title, salary)                        │
+  ├────────────────────────┼─────────┼────────────────────────────────────────────────────────────────────────┤
+  │ PERM Visa (MA)         │ 3,863   │ Green card applications (employer, job title, salary)    
+  _____________________________________________________________________________________________________________
